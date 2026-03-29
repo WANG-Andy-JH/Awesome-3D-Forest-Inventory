@@ -276,7 +276,7 @@ If this repository helps your research, please cite:
 ```bibtex
 @misc{wang2026awesome3dforestinventory,
   title        = {Awesome 3D Forest Inventory},
-  author       = {WANG-Andy-JH},
+  author       = {Jinhong Wang},
   year         = {2026},
   howpublished = {\url{https://github.com/WANG-Andy-JH/Awesome-3D-Forest-Inventory}},
   note         = {GitHub repository}
